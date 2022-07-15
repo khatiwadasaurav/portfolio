@@ -1,0 +1,116 @@
+{
+  "main": {
+    "name": "Saurav Khatiwada",
+    "occupation": "Software Developer",
+    "description": "Hi I am Saurav, a software developer from Nashville TN. ",
+    "image": "profilepic.jpeg",
+    "bio": "Hi there! I am Saurav! . I've been developing software for over 5 years now. As a Full Stack developer I've worked both with startups and enterprise corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers.",
+    "contactmessage": "Get in touch with me",
+    "email": "khatiwadasaurav10@gmail.com",
+    "phone": "+44 1234567899",
+    "address": {
+      "street": "123 Dev Lane",
+      "city": "United States",
+      "state": "Devosphere",
+      "zip": "W3B D3V"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/saurav-khatiwada",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "twitter",
+        "url": "",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/khatiwadasaurav",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "work": [
+      {
+        "company": "Oasis Digital",
+        "title": "Software Developer",
+        "years": "2021 - Present",
+        "description": "Working as a software developer and a consultant for large firms."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Chat Application",
+        "category": "",
+        "image": "instantbc.jpg",
+        "url": "https://instantbc.firebaseapp.com/login",
+        "git":"https://github.com/khatiwadasaurav/instant-bc-chat-app-"
+      },
+      {
+        "title": "Photo-portfolio",
+        "category": "",
+        "image": "photo-port.jpg",
+        "url": "https://khatiwadasaurav.github.io/photo-port/",
+        "git": "https://github.com/khatiwadasaurav/photo-port"
+      },
+      {
+        "title": "Henna Nashville",
+        "category": "",
+        "image": "henna-nashville.jpg",
+        "url": "https://www.hennanashville.com/",
+        "git": "https://github.com/khatiwadasaurav/henna_nashville"
+      },{
+        "title": "Chat Application",
+        "category": "",
+        "image": "instantbc.jpg",
+        "url": "https://instantbc.firebaseapp.com/login",
+        "git":"https://github.com/khatiwadasaurav/instant-bc-chat-app-"
+      },
+      {
+        "title": "Photo-portfolio",
+        "category": "",
+        "image": "photo-port1.jpg",
+        "url": "https://khatiwadasaurav.github.io/photo-port/",
+        "git": "https://github.com/khatiwadasaurav/photo-port"
+      },
+      {
+        "title": "Henna Nashville",
+        "category": "",
+        "image": "henna-nashvilleA.jpg",
+        "url": "https://www.hennanashville.com/",
+        "git": "https://github.com/khatiwadasaurav/henna_nashville"
+      }
+    ]
+  }
+}
