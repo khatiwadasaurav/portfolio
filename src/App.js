@@ -11,7 +11,12 @@ import "./App.css";
 const App = () => {
 	const [resumeData, setResumeData] = useState({});
 	useEffect(() => {
-		fetch("/resumeData.json")
+		fetch("/resumeData.json", {
+			headers: {
+				"Content-Type": "application/json",
+				Accept: "application/json",
+			},
+		})
 			.then((res) => res.json())
 			.then((data) => {
 				setResumeData(data);
